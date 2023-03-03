@@ -1,0 +1,48 @@
+.container
+{
+    border-radius: 15px;
+    margin: 40%;
+    background-color:hsl(0, 0%, 100%);
+    padding-right:20px;
+    padding-left: 25px;
+    padding-top: 20px;
+}
+
+.outerbox
+{
+    background-color: hsl(220, 15%, 55%);
+
+}
+
+#img
+{
+    border-radius: 10px;
+    image-rendering: pixelated;
+}
+
+h3
+{
+    text-align: center;
+    color:  hsl(212, 45%, 89%);
+    font-size: 15px;
+    padding-bottom: 30px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 400;
+}
+
+h1
+{
+    text-align: center;
+    margin: auto;
+    padding-top: 10px;
+    font-size: 18px;
+    font-family: 'Outfit', sans-serif;
+    font-weight: 700;
+}
+
+.box1
+{
+    border-radius: 40px, solid, grey;
+    align-content:initial;
+    
+}
